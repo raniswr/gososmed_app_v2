@@ -1,0 +1,42 @@
+name: gososmed_app
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  flutter:
+    sdk: flutter
+  responsive_framework: ^0.2.0
+  google_fonts: ^4.0.3
+  extended_image: ^6.4.0
+  flutter_svg: ^1.1.6
+  video_player: ^2.5.1
+  scrollable_positioned_list: ^0.3.5
+  camera: ^0.10.3
+  dio: ^5.0.1
+  shared_preferences: ^2.0.18
+  image_picker: ^0.8.7+4
+  simple_gradient_text: ^1.2.4
+  chat_bubbles: ^1.4.1
+  animated_text_kit: ^4.2.2
+  firebase_core: ^2.11.0
+
+dev_dependencies:
+  flutter_lints: 2.0.1
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/html/
+    - assets/json/
+    - assets/videos/
+    - assets/images/rose.png

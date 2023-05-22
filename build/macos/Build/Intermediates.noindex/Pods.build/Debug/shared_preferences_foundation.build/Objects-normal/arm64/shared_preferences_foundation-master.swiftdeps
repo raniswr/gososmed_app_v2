@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1678692830, 798305034]
+build_end_time: [1678692835, 894636154]
+inputs:
+  ? "/Users/raniprabaswari/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.1.5/macos/Classes/SharedPreferencesPlugin.swift"
+  : [1678516802, 858274459]
+  "/Users/raniprabaswari/.pub-cache/hosted/pub.dartlang.org/shared_preferences_foundation-2.1.5/macos/Classes/messages.g.swift": [1678516802, 858854532]
